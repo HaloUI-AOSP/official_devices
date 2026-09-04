@@ -6,7 +6,7 @@
 | **Nothing Phone 3a Lite** | `Galaxian` |
 | **OnePlus 9** | `Lemonade` |
 | **POCO F7 / Redmi Turbo 4 Pro** | `onyx` |
-| **Redmi Note 14 Pro** | `tanzanite` |
+| **Redmi Note 14** | `tanzanite` |
 | **Samsung Galaxy A25** | `TBD` |
 | **Samsung Galaxy A33** | `TBD` |
 | **Samsung Galaxy A53** | `TBD` |
