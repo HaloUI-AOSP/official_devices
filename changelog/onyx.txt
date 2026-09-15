@@ -1,0 +1,9 @@
+Rom:
+• Android 17 merge to September 2026 security patch
+
+Device:
+• Implement dcvs boosting via kernel
+• Switch to reflex governor
+• Add KProfiles
+• Drop WALT changes
+• Many more underhood changes
