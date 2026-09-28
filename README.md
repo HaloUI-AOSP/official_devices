@@ -1,8 +1,9 @@
-# HaloUI Official Devices
+# haloUI Official Devices
 
 | Device Name | Codename |
 |-------------|----------|
 | **Itel RS4** | `S666LN` |
+| **Motorola Moto E7 Plus** | `guam` |
 | **Nothing Phone 3a Lite** | `Galaxian` |
 | **OnePlus 9** | `Lemonade` |
 | **POCO F7 / Redmi Turbo 4 Pro** | `onyx` |
@@ -15,4 +16,3 @@
 | **TECNO POVA 4** | `LG7n` |
 | **TECNO POVA 4 Pro** | `LG8n` |
 | **TECNO POVA 5** | `LH7n` |
-| **Motorola Moto E7 Plus** | `guam` |
