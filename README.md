@@ -15,3 +15,4 @@
 | **TECNO POVA 4** | `LG7n` |
 | **TECNO POVA 4 Pro** | `LG8n` |
 | **TECNO POVA 5** | `LH7n` |
+| **Motorola Moto E7 Plus** | `guam` |
