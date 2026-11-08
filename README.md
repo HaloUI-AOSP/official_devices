@@ -16,3 +16,4 @@
 | **TECNO POVA 4** | `LG7n` |
 | **TECNO POVA 4 Pro** | `LG8n` |
 | **TECNO POVA 5** | `LH7n` |
+| **Infinix HOT 40 Pro** | `X6837` |
